@@ -4,4 +4,4 @@ I used a different GitHub repository during the implementation of my application
 
 
 
-To compile and run the application open this folder in Visual Studio Code and run npm install. When that is finished run npx expo start. 
+To compile and run the application open this folder in Visual Studio Code and run 'npm install'. When that is finished run 'npx expo start'. 
